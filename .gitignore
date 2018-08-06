@@ -1,0 +1,11 @@
+*.jar
+target/maven-archiver/pom.properties
+*.class
+.settings/org.eclipse.core.resources.prefs
+*.project
+*.lst
+target.rar
+*.zip
+.settings/org.eclipse.m2e.core.prefs
+*.prefs
+.classpath
